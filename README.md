@@ -6,5 +6,5 @@ An AI-powered customer support workflow built for Bloom Aesthetics Clinic (a sim
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/amolrathod7875/CLOSIRA_PROJECT.git>
+   git clone https://github.com/amolrathod7875/CLOSIRA_PROJECT.git
    cd closira-ai-agent
